@@ -1,2 +1,7 @@
 # python3Basico
-Desarrollo del código en -> https://www.youtube.com/watch?v=Qsu259Nsd64
+Desarrollo basico para entender python
+
+- Incluye buenas practicas
+- OPP
+- Gestor de dependencias pip
+- 
